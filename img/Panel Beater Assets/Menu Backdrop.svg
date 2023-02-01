@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="563" height="699" viewBox="0 0 563 699">
+  <defs>
+    <filter id="Rectangle_933" x="0" y="0" width="563" height="699" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.961"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#373a3e"/>
+      <stop offset="1" stop-color="#4670be" stop-opacity="0.031"/>
+    </linearGradient>
+  </defs>
+  <g id="Menu_Backdrop" data-name="Menu Backdrop" transform="translate(-615 -254)">
+    <g id="Group_252" data-name="Group 252">
+      <g id="Group_251" data-name="Group 251">
+        <g id="Group_244" data-name="Group 244" transform="translate(-141.711 -215.178)">
+          <g transform="matrix(1, 0, 0, 1, 756.71, 469.18)" filter="url(#Rectangle_933)">
+            <rect id="Rectangle_933-2" data-name="Rectangle 933" width="545" height="681" rx="11" transform="translate(9 6)" fill="#6e6e6e"/>
+          </g>
+        </g>
+        <rect id="Rectangle_934" data-name="Rectangle 934" width="432" height="2" transform="translate(677 378)" fill="#2e2e2e"/>
+      </g>
+    </g>
+    <g id="Group_250" data-name="Group 250">
+      <g id="Group_247" data-name="Group 247" transform="translate(-22 -50)">
+        <rect id="Rectangle_938" data-name="Rectangle 938" width="428" height="53" rx="12" transform="translate(705 477)" fill="rgba(49,49,49,0.91)"/>
+        <rect id="Rectangle_939" data-name="Rectangle 939" width="428" height="53" rx="12" transform="translate(705 537)" fill="rgba(49,49,49,0.91)"/>
+        <rect id="Rectangle_940" data-name="Rectangle 940" width="428" height="53" rx="12" transform="translate(705 597)" fill="rgba(49,49,49,0.91)"/>
+        <rect id="Rectangle_941" data-name="Rectangle 941" width="428" height="53" rx="12" transform="translate(705 657)" fill="rgba(49,49,49,0.91)"/>
+      </g>
+      <g id="Group_248" data-name="Group 248" transform="translate(-22 191)">
+        <rect id="Rectangle_938-2" data-name="Rectangle 938" width="428" height="53" rx="12" transform="translate(705 477)" fill="rgba(49,49,49,0.91)"/>
+        <rect id="Rectangle_939-2" data-name="Rectangle 939" width="428" height="53" rx="12" transform="translate(705 537)" fill="rgba(49,49,49,0.91)"/>
+        <rect id="Rectangle_940-2" data-name="Rectangle 940" width="428" height="53" rx="12" transform="translate(705 597)" fill="rgba(49,49,49,0.91)"/>
+      </g>
+    </g>
+    <g id="Group_245" data-name="Group 245" transform="translate(-2 -22)">
+      <rect id="Rectangle_935" data-name="Rectangle 935" width="469" height="455" rx="11" transform="translate(664 421)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
