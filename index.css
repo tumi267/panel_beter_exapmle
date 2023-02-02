@@ -622,10 +622,12 @@ li{
         margin-top: 6%;  
         margin-left: -1%; 
         width: 100%;
+        flex-wrap: wrap;
     }
     .btn_contain{
         display: flex;
         justify-content:space-evenly;
+        flex-wrap: wrap;
         max-width: 25%;
         max-height: 25%;
         margin-left: auto;
@@ -634,7 +636,7 @@ li{
         margin-bottom: -10%;
     }
     .btncontact{
-        margin-top: -30%;
+        margin-top: -28%;
         z-index: 4;
     }
     .main_option{
