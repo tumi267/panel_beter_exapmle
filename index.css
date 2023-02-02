@@ -620,7 +620,7 @@ li{
     }
     .main_option_container{
         margin-top: 6%;  
-        margin-left: 0%; 
+        margin-left: -1%; 
         width: 100%;
     }
     .btn_contain{
@@ -630,7 +630,7 @@ li{
         max-height: 25%;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 100%;
+        margin-top: 120%;
         margin-bottom: -10%;
     }
     .btncontact{
@@ -653,6 +653,9 @@ li{
     }
     .module_card_contact{
         height: 100%;
+        width: 100%;
+    }
+    .li2{
         width: 100%;
     }
 }
