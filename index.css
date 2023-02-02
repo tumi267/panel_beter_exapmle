@@ -630,11 +630,22 @@ li{
         max-height: 25%;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 90%;
+        margin-top: 100%;
         margin-bottom: -10%;
     }
     .btncontact{
         margin-top: -30%;
+        z-index: 4;
+    }
+    .main_option{
+        height: 150px;
+        width: 100px; 
+    }
+    .main_option:hover{
+
+        height: 150px;
+        width: 100px; 
+ 
     }
     .module_card{
         height: 100%;
