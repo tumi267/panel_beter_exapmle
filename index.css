@@ -627,11 +627,11 @@ li{
     .btn_contain{
         display: flex;
         flex-wrap: wrap;
-        max-width: 25%;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 120%;
-        margin-bottom: -10%;
+        height: 20%;
+        margin-top: 120%;  
+    }
+    .main_btn{
+        height: fit-content;
     }
     .btncontact{
         margin-top: -28%;
